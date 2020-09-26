@@ -1,0 +1,6 @@
+---
+applications:
+- name: demo-app-trail
+  memory: 1024M
+  instances: 1
+  path: target/demo-0.0.3-SNAPSHOT.jar
